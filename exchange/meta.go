@@ -98,6 +98,7 @@ const (
 	TRADESATOSHI ExchangeName = "TRADESATOSHI"
 	UEX          ExchangeName = "UEX"
 	VIRGOCX      ExchangeName = "VIRGOCX"
+	WCX          ExchangeName = "WCX"
 	ZBEX         ExchangeName = "ZBEX"
 )
 
